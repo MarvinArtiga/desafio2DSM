@@ -3,8 +3,8 @@
 
  ### Integrantes:
 
- -Marvin Edgardo Artiga Gonzalez AG230133
- -Waldo Jose Perez Agillon PA230265
+ -Marvin Edgardo Artiga Gonzalez AG230133 <br />
+ -Waldo Jose Perez Agillon PA230265<br />
  -Bryan Wilian Hernandez Artiaga HA231511
  
 
